@@ -1,0 +1,913 @@
+164.188.11.102 - - [May 12 2026, 05:15:13] "DELETE /api/users HTTP/1.1" 200 9188 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+94.83.27.233 - - [May 10 2026, 08:44:41] "GET /products/category/electronics HTTP/1.1" 404 10463 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+172.31.161.33 - - [May 10 2026, 01:53:14] "PUT /?limit=20&category=electronics HTTP/1.1" 400 4356 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+10.57.4.1 - - [May 08 2026, 10:29:15] "GET /products?sort=price_desc&page=2&q=search+term HTTP/1.1" 200 6281 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+58.127.67.221 - - [May 10 2026, 07:01:30] "POST /products HTTP/1.1" 400 10540 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+9.151.227.78 - - [May 10 2026, 14:31:13] "POST /about HTTP/1.1" 404 10464 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+181.127.63.68 - - [May 11 2026, 13:49:08] "GET /api/users HTTP/1.1" 404 8000 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+10.38.216.127 - - [May 06 2026, 08:59:56] "GET /search HTTP/1.1" 200 2036 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Mobile/15E148 Safari/604.1"
+5.3.229.174 - - [May 10 2026, 13:09:00] "PUT /contact HTTP/1.1" 304 0 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+2.158.2.242 - - [May 06 2026, 03:37:37] "GET /contact?q=search+term&sort=price_desc&category=electronics HTTP/1.1" 500 2148 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac 
+OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+172.19.199.61 - - [May 07 2026, 10:23:12] "GET /home HTTP/1.1" 301 1956 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+8.159.38.206 - - [May 11 2026, 17:43:46] "POST /products/category/electronics HTTP/1.1" 302 3213 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+76.25.22.168 - - [May 11 2026, 09:10:16] "POST /login HTTP/1.1" 404 10396 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+5.118.204.1 - - [May 10 2026, 18:49:32] "GET /blog?category=electronics HTTP/1.1" 200 2458 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+4.178.24.124 - - [May 06 2026, 00:10:14] "GET /products HTTP/1.1" 301 2647 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+192.168.44.112 - - [May 05 2026, 23:44:37] "GET /products/category/clothing?sort=price_desc&q=search+term HTTP/1.1" 200 10376 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+38.244.171.20 - - [May 06 2026, 13:53:12] "GET /blog?sort=price_desc HTTP/1.1" 301 6334 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+85.114.220.241 - - [May 08 2026, 01:43:32] "GET /?page=2&category=electronics&limit=20 HTTP/1.1" 200 4844 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+117.31.118.191 - - [May 10 2026, 19:42:14] "GET /search HTTP/1.1" 404 7506 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Mobile/15E148 Safari/604.1"
+134.49.59.221 - - [May 06 2026, 10:23:25] "DELETE /blog HTTP/1.1" 400 3513 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+131.240.3.113 - - [May 07 2026, 10:17:11] "DELETE / HTTP/1.1" 500 4344 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+192.168.154.254 - - [May 09 2026, 02:54:07] "POST /search?page=2 HTTP/1.1" 302 7166 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Safari/605.1.15"
+188.43.207.230 - - [May 06 2026, 03:19:19] "PUT /login?limit=20&page=2 HTTP/1.1" 200 8238 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+10.25.121.102 - - [May 08 2026, 18:47:05] "POST /checkout HTTP/1.1" 200 9305 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+190.70.87.234 - - [May 08 2026, 23:42:32] "DELETE /products/category/electronics HTTP/1.1" 400 1179 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+3.245.188.144 - - [May 07 2026, 10:40:43] "DELETE / HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+10.5.156.145 - - [May 06 2026, 20:13:42] "GET /register HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+213.179.24.121 - - [May 06 2026, 12:29:41] "PUT /api/users HTTP/1.1" 404 9046 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+42.159.220.143 - - [May 05 2026, 19:18:36] "GET /blog HTTP/1.1" 200 4854 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+23.104.50.105 - - [May 09 2026, 16:24:52] "GET /products?page=2 HTTP/1.1" 404 5460 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+192.168.84.194 - - [May 09 2026, 15:13:44] "GET /home?category=electronics HTTP/1.1" 304 0 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+10.130.246.66 - - [May 07 2026, 09:11:04] "DELETE /products/category/electronics HTTP/1.1" 301 6720 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+172.18.247.103 - - [May 07 2026, 22:55:17] "GET /products/category/electronics?page=2&sort=price_desc&category=electronics HTTP/1.1" 200 10824 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 
+10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+172.24.190.141 - - [May 06 2026, 19:03:57] "DELETE /api/users HTTP/1.1" 302 2461 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+179.132.71.27 - - [May 11 2026, 13:16:52] "GET /cart HTTP/1.1" 500 3618 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+10.127.15.180 - - [May 10 2026, 07:27:05] "GET /services?sort=price_desc&category=electronics&q=search+term HTTP/1.1" 200 8684 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+192.168.70.93 - - [May 11 2026, 20:48:21] "PUT /checkout HTTP/1.1" 301 1845 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+5.85.161.205 - - [May 11 2026, 07:40:09] "POST /products?sort=price_desc HTTP/1.1" 404 2757 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+201.101.105.114 - - [May 05 2026, 16:42:28] "PUT /about HTTP/1.1" 304 0 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+192.168.32.6 - - [May 09 2026, 14:01:52] "DELETE /checkout HTTP/1.1" 403 5629 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+4.224.200.67 - - [May 11 2026, 10:24:29] "GET /register?page=2&sort=price_desc&category=electronics HTTP/1.1" 200 5272 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS 
+X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.228.181.35 - - [May 06 2026, 06:07:57] "GET /search HTTP/1.1" 400 4897 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+10.224.161.8 - - [May 10 2026, 21:24:24] "POST /api/users?sort=price_desc HTTP/1.1" 302 2825 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+172.28.162.241 - - [May 12 2026, 02:54:03] "POST /about?sort=price_desc&category=electronics HTTP/1.1" 500 4352 "https://www.twitter.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+206.40.45.159 - - [May 08 2026, 15:30:49] "DELETE /api/users HTTP/1.1" 200 3968 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+203.208.214.64 - - [May 11 2026, 05:07:36] "GET /contact?q=search+term&sort=price_desc HTTP/1.1" 403 6060 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) 
+Gecko/20100101 Firefox/90.0"
+197.28.61.194 - - [May 06 2026, 14:27:10] "DELETE /home HTTP/1.1" 404 3876 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+3.105.95.86 - - [May 08 2026, 10:41:09] "POST /services HTTP/1.1" 301 7028 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+86.87.81.35 - - [May 08 2026, 13:18:10] "PUT /api/users HTTP/1.1" 302 9476 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+187.130.95.19 - - [May 06 2026, 13:22:13] "GET /products/category/electronics HTTP/1.1" 404 5912 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+166.144.22.230 - - [May 10 2026, 19:23:36] "PUT /blog HTTP/1.1" 200 9744 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+172.19.218.65 - - [May 06 2026, 00:00:23] "GET / HTTP/1.1" 500 1793 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+10.75.255.25 - - [May 08 2026, 16:46:55] "GET /cart?sort=price_desc&page=2 HTTP/1.1" 200 10447 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+192.168.229.143 - - [May 09 2026, 20:50:55] "POST /blog HTTP/1.1" 301 5934 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+196.130.200.216 - - [May 05 2026, 16:29:48] "DELETE /products HTTP/1.1" 403 9516 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+182.157.54.107 - - [May 08 2026, 23:27:43] "DELETE /home HTTP/1.1" 403 5713 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+223.254.14.243 - - [May 08 2026, 15:53:03] "PUT /api/users?limit=20 HTTP/1.1" 301 9301 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 
+Safari/537.36"
+84.27.168.34 - - [May 09 2026, 22:28:23] "DELETE /?page=2&sort=price_desc HTTP/1.1" 302 4538 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Safari/605.1.15"
+192.168.105.149 - - [May 07 2026, 14:06:42] "GET /products?page=2 HTTP/1.1" 400 2815 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, 
+like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.209.179.237 - - [May 12 2026, 03:27:39] "GET /search?sort=price_desc&q=search+term HTTP/1.1" 403 1036 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+184.178.26.227 - - [May 10 2026, 18:42:06] "GET /products HTTP/1.1" 200 5382 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+201.223.202.17 - - [May 05 2026, 18:48:27] "PUT /products?sort=price_desc&page=2&category=electronics HTTP/1.1" 500 3784 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS 
+X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+173.126.7.86 - - [May 07 2026, 07:43:54] "GET /about?page=2&category=electronics HTTP/1.1" 200 7780 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+3.62.73.254 - - [May 09 2026, 08:54:55] "POST /api/users HTTP/1.1" 404 6047 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+104.224.30.111 - - [May 12 2026, 10:00:13] "GET /home?sort=price_desc HTTP/1.1" 404 8464 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+192.168.77.59 - - [May 10 2026, 03:27:39] "GET /services HTTP/1.1" 200 4661 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+159.200.181.150 - - [May 07 2026, 16:36:52] "DELETE /about HTTP/1.1" 200 2724 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+131.68.139.71 - - [May 11 2026, 15:09:09] "PUT /about?category=electronics&sort=price_desc&limit=20 HTTP/1.1" 403 1155 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+93.84.88.174 - - [May 09 2026, 16:54:41] "DELETE /products HTTP/1.1" 304 0 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+192.168.247.174 - - [May 05 2026, 23:28:28] "GET /products/category/clothing HTTP/1.1" 302 5764 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+223.82.42.102 - - [May 08 2026, 20:21:09] "GET /services HTTP/1.1" 200 4640 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+152.35.93.100 - - [May 07 2026, 10:21:23] "GET /products HTTP/1.1" 302 1921 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+172.17.41.239 - - [May 07 2026, 10:43:00] "GET /products?page=2 HTTP/1.1" 200 3602 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+178.128.41.66 - - [May 11 2026, 00:50:10] "DELETE /login?q=search+term&category=electronics&sort=price_desc HTTP/1.1" 302 1054 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; 
+rv:90.0) Gecko/20100101 Firefox/90.0"
+216.70.22.225 - - [May 06 2026, 07:22:01] "DELETE /products/category/clothing?page=2&q=search+term&category=electronics HTTP/1.1" 200 8762 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; 
+Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+75.209.64.254 - - [May 07 2026, 13:40:07] "PUT /products/category/clothing HTTP/1.1" 500 9830 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, 
+like Gecko) Version/14.1.1 Safari/605.1.15"
+178.231.5.41 - - [May 10 2026, 19:08:53] "GET /products HTTP/1.1" 200 2932 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+175.102.187.248 - - [May 06 2026, 04:44:06] "GET /login?category=electronics HTTP/1.1" 400 8986 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+177.35.162.120 - - [May 06 2026, 17:23:50] "GET /contact HTTP/1.1" 302 9162 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+203.219.52.84 - - [May 10 2026, 03:59:39] "DELETE /search HTTP/1.1" 301 1557 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+218.62.218.1 - - [May 11 2026, 02:08:56] "DELETE /login HTTP/1.1" 200 2698 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+190.15.82.65 - - [May 10 2026, 01:40:07] "DELETE /checkout HTTP/1.1" 400 9575 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+180.161.213.93 - - [May 08 2026, 09:23:54] "GET /api/users?page=2&sort=price_desc HTTP/1.1" 200 9669 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+196.17.30.216 - - [May 05 2026, 17:02:02] "GET /home HTTP/1.1" 403 1149 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+154.210.208.102 - - [May 11 2026, 21:28:45] "GET /api/users?limit=20&sort=price_desc&q=search+term HTTP/1.1" 404 9603 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+6.117.2.45 - - [May 07 2026, 14:40:13] "GET /blog HTTP/1.1" 403 5114 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+172.29.202.44 - - [May 05 2026, 22:03:50] "GET /contact HTTP/1.1" 200 1004 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+9.158.202.105 - - [May 10 2026, 09:45:56] "DELETE /home?sort=price_desc HTTP/1.1" 200 1314 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+102.171.216.66 - - [May 08 2026, 16:57:05] "DELETE /products/category/clothing HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+183.217.158.94 - - [May 09 2026, 05:58:46] "GET /register?page=2 HTTP/1.1" 404 4593 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+143.209.183.169 - - [May 08 2026, 07:56:14] "DELETE /search?sort=price_desc HTTP/1.1" 200 9865 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+179.188.201.21 - - [May 05 2026, 19:11:12] "DELETE /register HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+192.168.224.103 - - [May 10 2026, 14:28:42] "GET /search?category=electronics&sort=price_desc HTTP/1.1" 400 6068 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) 
+Gecko/20100101 Firefox/90.0"
+177.45.154.152 - - [May 11 2026, 09:04:28] "POST /services?category=electronics HTTP/1.1" 200 10258 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+192.168.47.204 - - [May 09 2026, 15:00:24] "GET /api/users HTTP/1.1" 200 3930 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+173.7.148.156 - - [May 07 2026, 23:51:30] "DELETE /products?sort=price_desc&page=2 HTTP/1.1" 403 3046 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+184.142.237.139 - - [May 06 2026, 20:42:34] "GET /products/category/clothing HTTP/1.1" 200 4633 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+10.176.147.189 - - [May 05 2026, 22:11:48] "DELETE /search?sort=price_desc&page=2&q=search+term HTTP/1.1" 200 8681 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+218.192.56.78 - - [May 05 2026, 20:06:32] "POST /checkout HTTP/1.1" 200 1247 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+68.181.240.114 - - [May 10 2026, 19:28:54] "GET /products/category/clothing HTTP/1.1" 404 6177 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+188.110.139.181 - - [May 09 2026, 12:09:15] "GET /register HTTP/1.1" 200 5122 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+221.176.194.137 - - [May 09 2026, 16:16:58] "GET /checkout?sort=price_desc&page=2&category=electronics HTTP/1.1" 301 5000 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) 
+Gecko/20100101 Firefox/90.0"
+210.42.195.79 - - [May 07 2026, 23:24:37] "GET /products/category/clothing?sort=price_desc&page=2&limit=20 HTTP/1.1" 200 5070 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; 
+rv:90.0) Gecko/20100101 Firefox/90.0"
+110.160.240.51 - - [May 10 2026, 19:20:08] "GET /?page=2 HTTP/1.1" 404 9980 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+172.18.90.26 - - [May 11 2026, 02:13:59] "GET /?q=search+term&sort=price_desc&page=2 HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+172.31.212.180 - - [May 08 2026, 01:37:22] "DELETE /checkout HTTP/1.1" 200 10399 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+173.141.59.230 - - [May 10 2026, 04:57:52] "POST /about?limit=20&sort=price_desc&category=electronics HTTP/1.1" 500 9666 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+10.39.139.47 - - [May 05 2026, 21:13:58] "DELETE /cart?page=2 HTTP/1.1" 404 4510 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+10.11.214.187 - - [May 10 2026, 07:54:12] "POST /?page=2 HTTP/1.1" 200 1727 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+179.235.196.157 - - [May 12 2026, 08:44:52] "DELETE /home HTTP/1.1" 400 9715 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+10.203.170.41 - - [May 10 2026, 02:02:31] "GET /services HTTP/1.1" 200 5666 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+177.86.248.91 - - [May 08 2026, 20:52:56] "GET /checkout HTTP/1.1" 403 3652 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+161.172.199.114 - - [May 11 2026, 10:58:46] "GET /services HTTP/1.1" 304 0 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+157.40.65.206 - - [May 07 2026, 14:04:53] "POST /home HTTP/1.1" 400 6820 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+192.168.133.17 - - [May 06 2026, 21:38:44] "PUT /contact HTTP/1.1" 404 2936 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+192.168.56.106 - - [May 10 2026, 20:08:04] "DELETE /contact HTTP/1.1" 500 10096 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+211.253.239.92 - - [May 10 2026, 01:45:36] "PUT / HTTP/1.1" 403 8571 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+172.18.239.5 - - [May 10 2026, 17:34:41] "GET / HTTP/1.1" 200 6586 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+212.224.119.57 - - [May 08 2026, 15:23:27] "GET /products/category/clothing HTTP/1.1" 500 5407 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+10.157.220.77 - - [May 09 2026, 20:09:28] "GET /cart?category=electronics HTTP/1.1" 400 7390 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+10.250.156.219 - - [May 05 2026, 23:52:58] "DELETE /products/category/electronics HTTP/1.1" 200 4010 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+172.18.246.224 - - [May 06 2026, 13:25:33] "PUT /checkout?page=2&q=search+term&category=electronics HTTP/1.1" 200 5970 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 
+(KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+5.135.233.23 - - [May 07 2026, 17:23:30] "GET /services?category=electronics&sort=price_desc&q=search+term HTTP/1.1" 403 5437 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+125.230.11.187 - - [May 06 2026, 18:11:31] "GET /api/users HTTP/1.1" 404 9265 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+202.19.78.132 - - [May 06 2026, 23:18:54] "GET /services HTTP/1.1" 404 5035 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+192.168.19.41 - - [May 08 2026, 04:50:06] "DELETE /api/users HTTP/1.1" 200 8896 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Mobile/15E148 Safari/604.1"
+172.21.93.116 - - [May 09 2026, 11:21:32] "POST /blog?page=2&q=search+term HTTP/1.1" 200 10585 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+200.108.105.74 - - [May 08 2026, 00:33:17] "POST /checkout HTTP/1.1" 301 6475 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+3.165.11.123 - - [May 09 2026, 04:39:25] "DELETE /products/category/electronics HTTP/1.1" 302 2636 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+148.34.11.153 - - [May 06 2026, 11:58:24] "GET /products/category/clothing HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+132.236.247.70 - - [May 10 2026, 19:55:35] "GET /products/category/clothing HTTP/1.1" 301 9121 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+192.168.163.232 - - [May 10 2026, 17:30:39] "PUT /contact HTTP/1.1" 400 9013 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+6.192.17.253 - - [May 06 2026, 14:11:07] "GET /products/category/clothing HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, 
+like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.121.72.39 - - [May 06 2026, 18:54:56] "GET /products HTTP/1.1" 404 10212 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+192.168.215.25 - - [May 09 2026, 20:08:28] "GET /home?limit=20&category=electronics HTTP/1.1" 301 4167 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+172.19.33.155 - - [May 08 2026, 03:38:23] "POST /cart?sort=price_desc HTTP/1.1" 200 7549 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, 
+like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.78.235.231 - - [May 05 2026, 13:54:45] "POST /api/users HTTP/1.1" 301 10298 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+168.87.205.54 - - [May 07 2026, 06:21:20] "DELETE /services HTTP/1.1" 500 9497 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+192.168.22.175 - - [May 06 2026, 19:21:30] "GET /checkout HTTP/1.1" 404 8998 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+156.75.232.155 - - [May 11 2026, 04:51:26] "GET /services HTTP/1.1" 404 2852 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+10.84.124.121 - - [May 10 2026, 04:58:10] "GET /contact HTTP/1.1" 302 3636 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+192.168.123.156 - - [May 10 2026, 06:44:57] "GET /register?page=2&sort=price_desc&category=electronics HTTP/1.1" 500 9707 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) 
+Gecko/20100101 Firefox/90.0"
+10.136.233.60 - - [May 06 2026, 21:58:52] "POST /register HTTP/1.1" 404 1459 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+27.47.64.195 - - [May 06 2026, 15:32:00] "GET /home HTTP/1.1" 302 4191 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 
+Safari/537.36"
+217.193.8.246 - - [May 10 2026, 10:21:51] "POST /products HTTP/1.1" 301 6963 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+146.171.116.232 - - [May 08 2026, 00:18:34] "GET /home HTTP/1.1" 304 0 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 
+Safari/537.36"
+2.56.28.219 - - [May 10 2026, 02:37:14] "GET /products/category/electronics HTTP/1.1" 400 4525 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, 
+like Gecko) Version/14.1.1 Safari/605.1.15"
+140.191.93.255 - - [May 07 2026, 05:33:48] "GET /contact?page=2&sort=price_desc HTTP/1.1" 404 3305 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+36.157.60.139 - - [May 11 2026, 23:13:45] "GET / HTTP/1.1" 404 8041 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+178.148.100.51 - - [May 08 2026, 07:15:31] "GET /checkout HTTP/1.1" 404 5559 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+10.63.44.232 - - [May 05 2026, 16:18:06] "GET /products/category/electronics HTTP/1.1" 200 1743 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+130.108.192.131 - - [May 10 2026, 21:02:59] "DELETE /checkout HTTP/1.1" 302 4307 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+8.106.239.2 - - [May 11 2026, 23:00:41] "DELETE /checkout HTTP/1.1" 302 3849 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+7.21.217.80 - - [May 07 2026, 07:25:35] "GET /home?sort=price_desc&page=2 HTTP/1.1" 302 8697 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+5.140.84.97 - - [May 09 2026, 07:39:00] "GET /blog HTTP/1.1" 400 2973 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.80.85.191 - - [May 06 2026, 08:45:30] "GET /about?sort=price_desc HTTP/1.1" 403 5891 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+10.55.25.218 - - [May 06 2026, 04:38:21] "GET /register HTTP/1.1" 200 3880 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+178.170.211.212 - - [May 11 2026, 21:28:18] "GET /cart HTTP/1.1" 200 10507 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+172.25.46.78 - - [May 06 2026, 19:25:11] "GET /services HTTP/1.1" 302 6620 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+188.184.129.187 - - [May 09 2026, 14:16:43] "DELETE /services?category=electronics HTTP/1.1" 304 0 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+161.101.174.117 - - [May 06 2026, 10:50:45] "GET /products/category/electronics HTTP/1.1" 403 3173 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+172.25.93.107 - - [May 07 2026, 03:58:39] "POST /home HTTP/1.1" 200 7902 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+106.54.188.248 - - [May 10 2026, 22:50:31] "DELETE /products?category=electronics&sort=price_desc&page=2 HTTP/1.1" 500 2090 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+60.17.128.66 - - [May 08 2026, 18:25:48] "DELETE /blog HTTP/1.1" 500 3328 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+192.168.152.222 - - [May 07 2026, 18:33:43] "GET /products/category/electronics?sort=price_desc&page=2&category=electronics HTTP/1.1" 301 4225 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; 
+Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+189.54.212.139 - - [May 09 2026, 12:02:46] "DELETE /contact HTTP/1.1" 200 2559 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+179.192.0.224 - - [May 08 2026, 00:29:25] "DELETE /checkout HTTP/1.1" 200 6900 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+192.168.8.181 - - [May 07 2026, 21:13:58] "DELETE /cart HTTP/1.1" 304 0 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+1.110.38.67 - - [May 10 2026, 16:36:50] "PUT /products HTTP/1.1" 500 4768 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+10.142.216.47 - - [May 10 2026, 00:35:02] "DELETE /login HTTP/1.1" 500 2478 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+214.87.127.114 - - [May 06 2026, 00:13:51] "DELETE /api/users HTTP/1.1" 200 4379 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+1.91.141.74 - - [May 09 2026, 06:10:32] "GET /cart HTTP/1.1" 301 8396 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+175.247.23.102 - - [May 12 2026, 04:52:59] "POST /products/category/clothing HTTP/1.1" 500 8246 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+201.119.250.83 - - [May 06 2026, 06:14:48] "POST /register HTTP/1.1" 302 4318 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+190.114.75.67 - - [May 06 2026, 19:39:04] "GET /login HTTP/1.1" 403 10541 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+172.23.227.204 - - [May 12 2026, 06:55:02] "GET /login HTTP/1.1" 200 6126 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+10.150.150.108 - - [May 06 2026, 19:26:11] "GET /api/users HTTP/1.1" 403 7859 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+8.76.148.36 - - [May 09 2026, 11:08:39] "POST /login?sort=price_desc&page=2&category=electronics HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+1.203.135.37 - - [May 08 2026, 15:20:51] "PUT /about HTTP/1.1" 400 8494 "https://www.twitter.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+194.98.211.134 - - [May 10 2026, 11:02:28] "PUT /checkout HTTP/1.1" 302 8503 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+192.168.72.177 - - [May 08 2026, 07:33:03] "GET /about HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+149.214.152.73 - - [May 12 2026, 02:59:06] "GET /products/category/clothing HTTP/1.1" 404 5824 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+192.168.5.133 - - [May 10 2026, 10:00:30] "PUT /products/category/electronics HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+183.15.226.195 - - [May 11 2026, 23:52:16] "POST /checkout?page=2 HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+192.168.83.122 - - [May 05 2026, 15:35:55] "PUT /products/category/electronics?sort=price_desc HTTP/1.1" 200 2100 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.173.183.57 - - [May 05 2026, 17:33:51] "PUT /services HTTP/1.1" 200 4372 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+18.127.62.132 - - [May 09 2026, 03:50:27] "POST /products HTTP/1.1" 500 9779 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+152.55.8.190 - - [May 10 2026, 12:02:22] "POST /checkout HTTP/1.1" 400 6295 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+1.189.197.63 - - [May 08 2026, 13:37:05] "PUT /products/category/clothing HTTP/1.1" 302 10054 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+175.135.223.148 - - [May 06 2026, 13:16:56] "DELETE /api/users HTTP/1.1" 200 6495 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+74.43.189.120 - - [May 08 2026, 02:03:53] "DELETE /products/category/clothing HTTP/1.1" 301 3277 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+192.168.9.29 - - [May 09 2026, 20:12:33] "GET /about?limit=20&sort=price_desc&page=2 HTTP/1.1" 500 9777 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+141.96.132.113 - - [May 12 2026, 01:40:43] "GET / HTTP/1.1" 302 2834 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 
+Safari/537.36"
+6.188.130.207 - - [May 12 2026, 00:48:18] "GET /home HTTP/1.1" 400 9828 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+172.26.40.50 - - [May 08 2026, 08:10:25] "POST /register HTTP/1.1" 200 2149 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+192.168.169.105 - - [May 07 2026, 12:14:13] "GET /search?q=search+term&page=2&category=electronics HTTP/1.1" 200 5108 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 
+(KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+10.23.41.59 - - [May 10 2026, 06:11:47] "DELETE /checkout HTTP/1.1" 301 2258 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+176.212.106.24 - - [May 06 2026, 03:30:47] "GET /checkout?page=2 HTTP/1.1" 302 1027 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+198.5.143.207 - - [May 08 2026, 09:27:40] "GET /home HTTP/1.1" 400 4564 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+212.175.22.175 - - [May 06 2026, 23:54:22] "GET /products/category/electronics HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.142.118.215 - - [May 05 2026, 18:52:34] "GET /checkout HTTP/1.1" 200 10744 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+9.124.215.109 - - [May 06 2026, 03:04:45] "PUT /checkout HTTP/1.1" 403 6339 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+186.237.29.21 - - [May 08 2026, 06:48:23] "GET /cart HTTP/1.1" 200 6305 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+175.97.78.204 - - [May 08 2026, 18:35:00] "GET /cart HTTP/1.1" 302 6850 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+196.213.2.105 - - [May 08 2026, 19:17:24] "POST /register HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+172.26.33.136 - - [May 10 2026, 17:17:23] "GET /register HTTP/1.1" 200 7042 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+172.18.225.208 - - [May 08 2026, 01:47:18] "GET /products HTTP/1.1" 403 8754 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+133.75.179.90 - - [May 06 2026, 15:31:18] "DELETE /cart HTTP/1.1" 400 1752 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+10.234.41.104 - - [May 10 2026, 18:49:08] "DELETE /contact?category=electronics&sort=price_desc HTTP/1.1" 200 6106 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+5.54.221.118 - - [May 11 2026, 22:15:47] "GET /products/category/clothing?page=2 HTTP/1.1" 200 7799 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+192.168.197.202 - - [May 11 2026, 21:21:49] "GET /blog HTTP/1.1" 500 7796 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+178.55.148.25 - - [May 05 2026, 19:11:59] "GET /api/users?limit=20&sort=price_desc HTTP/1.1" 404 8493 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+138.183.238.184 - - [May 06 2026, 02:34:01] "PUT /home HTTP/1.1" 200 4318 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+10.41.168.0 - - [May 11 2026, 10:28:01] "DELETE /checkout HTTP/1.1" 400 3468 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+221.111.150.209 - - [May 09 2026, 18:12:19] "DELETE /products/category/clothing HTTP/1.1" 301 5188 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+10.215.52.211 - - [May 05 2026, 20:10:38] "GET / HTTP/1.1" 200 10425 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 
+Safari/537.36"
+79.149.160.158 - - [May 11 2026, 15:02:06] "GET /about HTTP/1.1" 403 4004 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+130.111.192.228 - - [May 07 2026, 10:37:21] "DELETE /contact?sort=price_desc HTTP/1.1" 304 0 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+209.75.53.57 - - [May 06 2026, 00:18:03] "PUT /api/users?sort=price_desc&page=2&limit=20 HTTP/1.1" 403 4004 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+138.73.65.166 - - [May 11 2026, 08:40:22] "DELETE / HTTP/1.1" 200 9838 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+8.115.74.206 - - [May 12 2026, 00:07:56] "PUT /products HTTP/1.1" 400 2400 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+5.38.108.175 - - [May 09 2026, 21:07:25] "GET / HTTP/1.1" 302 4696 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 
+Safari/537.36"
+207.181.195.243 - - [May 11 2026, 02:28:20] "PUT /checkout HTTP/1.1" 301 6688 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+192.168.161.242 - - [May 11 2026, 03:20:12] "DELETE /register?sort=price_desc&page=2 HTTP/1.1" 400 3928 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/92.0.4515.107 Safari/537.36"
+186.168.20.140 - - [May 07 2026, 18:18:53] "DELETE /blog HTTP/1.1" 400 5462 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+189.194.175.25 - - [May 06 2026, 08:45:00] "GET /register?q=search+term&category=electronics HTTP/1.1" 301 8000 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+102.26.1.20 - - [May 11 2026, 19:59:41] "POST /login?sort=price_desc&page=2&category=electronics HTTP/1.1" 200 1767 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+198.11.25.191 - - [May 06 2026, 03:22:43] "GET /login HTTP/1.1" 301 8111 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+155.114.112.225 - - [May 05 2026, 13:52:56] "GET /search HTTP/1.1" 400 4847 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+5.130.154.73 - - [May 07 2026, 08:13:09] "POST /blog HTTP/1.1" 400 9873 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+148.32.83.38 - - [May 08 2026, 14:48:12] "DELETE /register HTTP/1.1" 302 2081 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+90.82.122.199 - - [May 10 2026, 20:46:28] "POST /register HTTP/1.1" 500 8909 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+172.20.120.118 - - [May 06 2026, 10:35:43] "GET /api/users HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+172.30.52.121 - - [May 07 2026, 14:07:06] "DELETE /?q=search+term&category=electronics HTTP/1.1" 200 3728 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/92.0.4515.107 Safari/537.36"
+186.199.187.51 - - [May 10 2026, 10:42:55] "GET /blog?category=electronics&sort=price_desc&page=2 HTTP/1.1" 200 10864 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+5.112.156.190 - - [May 07 2026, 10:27:06] "GET /products?sort=price_desc&category=electronics HTTP/1.1" 200 2572 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) 
+Gecko/20100101 Firefox/90.0"
+214.172.246.224 - - [May 11 2026, 00:41:03] "DELETE /about HTTP/1.1" 302 4189 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+10.108.101.18 - - [May 05 2026, 20:31:32] "PUT /products/category/clothing?category=electronics&page=2&sort=price_desc HTTP/1.1" 400 3875 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; 
+x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+179.32.243.55 - - [May 07 2026, 15:38:14] "GET /cart HTTP/1.1" 302 6226 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+222.48.83.170 - - [May 10 2026, 19:02:33] "GET / HTTP/1.1" 403 5116 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+172.22.193.202 - - [May 07 2026, 04:03:21] "GET /products?page=2 HTTP/1.1" 404 10313 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+206.177.228.11 - - [May 08 2026, 18:10:38] "GET /search HTTP/1.1" 302 10503 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+173.102.165.111 - - [May 06 2026, 04:32:13] "GET /contact HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+188.103.35.160 - - [May 11 2026, 08:52:42] "GET /checkout?page=2 HTTP/1.1" 200 1614 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+3.247.157.189 - - [May 07 2026, 16:56:01] "POST /cart?sort=price_desc&page=2&category=electronics HTTP/1.1" 200 5987 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+190.58.64.8 - - [May 11 2026, 17:12:42] "DELETE /login?category=electronics HTTP/1.1" 404 4478 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+182.106.189.118 - - [May 12 2026, 02:58:58] "PUT / HTTP/1.1" 301 6972 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+192.168.53.202 - - [May 09 2026, 20:39:53] "GET /contact HTTP/1.1" 200 8933 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+36.98.217.219 - - [May 10 2026, 11:35:21] "GET /contact?q=search+term&page=2 HTTP/1.1" 200 6370 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+4.217.226.61 - - [May 08 2026, 04:05:26] "GET /cart HTTP/1.1" 404 5355 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+9.187.65.131 - - [May 12 2026, 04:31:32] "GET / HTTP/1.1" 200 9957 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+8.61.91.208 - - [May 05 2026, 21:31:56] "GET /blog HTTP/1.1" 200 9853 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+153.6.66.65 - - [May 10 2026, 00:56:35] "GET /services?sort=price_desc&page=2 HTTP/1.1" 404 4489 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+139.224.167.203 - - [May 06 2026, 05:43:25] "DELETE /products HTTP/1.1" 301 6964 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+214.143.210.58 - - [May 12 2026, 04:03:03] "POST / HTTP/1.1" 404 6489 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+2.209.79.239 - - [May 11 2026, 21:33:44] "DELETE /services HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+172.30.144.238 - - [May 08 2026, 18:09:27] "PUT /contact HTTP/1.1" 403 7207 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+8.48.104.106 - - [May 06 2026, 21:18:40] "DELETE /home?category=electronics&sort=price_desc&page=2 HTTP/1.1" 200 7253 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+10.150.30.230 - - [May 08 2026, 17:22:06] "DELETE /products?sort=price_desc&category=electronics&page=2 HTTP/1.1" 200 10404 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+188.155.24.254 - - [May 06 2026, 03:09:56] "GET /blog?page=2 HTTP/1.1" 200 2615 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+204.36.197.208 - - [May 10 2026, 13:06:26] "POST /api/users HTTP/1.1" 400 6007 "https://www.twitter.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+183.173.140.143 - - [May 10 2026, 01:25:00] "PUT /products/category/electronics HTTP/1.1" 302 1442 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+47.202.224.169 - - [May 11 2026, 08:27:57] "PUT /home?category=electronics&limit=20 HTTP/1.1" 400 2514 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+172.16.184.188 - - [May 11 2026, 06:32:01] "GET /login HTTP/1.1" 400 2677 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+193.37.189.243 - - [May 08 2026, 19:53:55] "GET /cart HTTP/1.1" 404 1027 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+211.180.202.205 - - [May 09 2026, 21:16:03] "GET /products HTTP/1.1" 404 6937 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+174.49.178.60 - - [May 10 2026, 14:59:38] "PUT /login HTTP/1.1" 200 8516 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+79.223.45.153 - - [May 09 2026, 03:11:13] "GET /services?page=2&sort=price_desc HTTP/1.1" 302 5102 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+109.28.196.134 - - [May 11 2026, 03:01:44] "GET /register HTTP/1.1" 200 9423 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+181.93.131.87 - - [May 11 2026, 14:02:13] "GET /register HTTP/1.1" 403 1610 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+115.162.75.217 - - [May 09 2026, 20:51:54] "PUT /about?sort=price_desc&page=2 HTTP/1.1" 304 0 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+191.111.197.135 - - [May 06 2026, 23:09:45] "GET /home HTTP/1.1" 404 9591 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+34.37.161.208 - - [May 06 2026, 02:39:35] "DELETE /products/category/electronics HTTP/1.1" 200 6158 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+208.40.153.30 - - [May 10 2026, 11:43:40] "GET / HTTP/1.1" 301 3008 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+109.218.225.181 - - [May 08 2026, 07:52:06] "GET /products/category/clothing HTTP/1.1" 403 3245 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+182.185.163.12 - - [May 12 2026, 03:20:19] "GET /products HTTP/1.1" 400 1445 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+172.28.120.69 - - [May 06 2026, 03:53:33] "POST /register HTTP/1.1" 404 2430 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+157.173.66.210 - - [May 10 2026, 10:59:03] "GET /products/category/electronics HTTP/1.1" 302 8807 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+192.168.208.140 - - [May 10 2026, 05:26:09] "POST /products/category/clothing HTTP/1.1" 400 9573 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+175.144.220.72 - - [May 07 2026, 05:56:51] "GET /contact HTTP/1.1" 400 10741 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+131.35.47.172 - - [May 12 2026, 06:42:11] "GET /about?sort=price_desc HTTP/1.1" 500 4819 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+178.176.150.145 - - [May 05 2026, 11:54:27] "PUT /products/category/clothing HTTP/1.1" 301 8376 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+10.142.84.75 - - [May 08 2026, 15:22:32] "DELETE /checkout HTTP/1.1" 403 5602 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+192.168.178.7 - - [May 11 2026, 22:35:35] "GET /search?category=electronics&page=2 HTTP/1.1" 200 1390 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+180.197.235.120 - - [May 06 2026, 05:50:42] "POST /login?sort=price_desc&page=2&category=electronics HTTP/1.1" 200 1231 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+172.30.78.56 - - [May 08 2026, 06:47:14] "GET /checkout HTTP/1.1" 400 10009 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+191.233.233.18 - - [May 05 2026, 18:28:12] "POST /about?category=electronics HTTP/1.1" 200 8179 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+169.2.94.37 - - [May 09 2026, 19:37:50] "DELETE /register HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+49.182.207.79 - - [May 10 2026, 13:01:37] "DELETE /products/category/electronics?page=2 HTTP/1.1" 500 1182 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+114.236.191.109 - - [May 05 2026, 10:31:22] "DELETE /about HTTP/1.1" 403 7609 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+165.69.60.48 - - [May 10 2026, 13:48:48] "GET /products HTTP/1.1" 302 7622 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+69.226.120.119 - - [May 10 2026, 13:16:50] "DELETE /products/category/electronics HTTP/1.1" 200 4480 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+179.104.57.254 - - [May 12 2026, 08:05:37] "DELETE /services?category=electronics&q=search+term&sort=price_desc HTTP/1.1" 403 4421 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 
+like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+223.79.52.145 - - [May 12 2026, 02:49:55] "DELETE /products/category/electronics HTTP/1.1" 500 7044 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+10.93.168.103 - - [May 06 2026, 00:07:42] "POST /api/users HTTP/1.1" 404 10979 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+181.103.226.158 - - [May 06 2026, 15:26:29] "DELETE / HTTP/1.1" 200 2466 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+10.36.229.100 - - [May 10 2026, 00:13:19] "GET /about HTTP/1.1" 403 1670 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+192.168.21.1 - - [May 08 2026, 10:42:37] "GET /login HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+172.22.162.44 - - [May 07 2026, 14:03:25] "POST /products HTTP/1.1" 200 5853 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+10.59.191.198 - - [May 12 2026, 03:29:36] "DELETE /products HTTP/1.1" 304 0 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+5.162.117.247 - - [May 07 2026, 01:15:53] "DELETE /products?category=electronics&sort=price_desc&page=2 HTTP/1.1" 404 8183 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac 
+OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+172.20.180.130 - - [May 08 2026, 01:47:16] "POST /products/category/electronics HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+76.129.28.142 - - [May 07 2026, 09:54:46] "PUT /blog HTTP/1.1" 304 0 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+192.168.56.162 - - [May 06 2026, 01:44:05] "GET /blog?q=search+term&limit=20&sort=price_desc HTTP/1.1" 400 8260 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+206.127.224.60 - - [May 05 2026, 14:14:57] "GET /products HTTP/1.1" 500 4737 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Mobile/15E148 Safari/604.1"
+191.102.85.76 - - [May 09 2026, 22:32:32] "DELETE /products HTTP/1.1" 403 2538 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+173.190.27.250 - - [May 11 2026, 05:11:47] "GET /products/category/clothing HTTP/1.1" 301 7275 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+161.99.177.59 - - [May 11 2026, 20:50:12] "DELETE /login HTTP/1.1" 200 1728 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+192.168.159.191 - - [May 09 2026, 09:58:53] "GET /checkout HTTP/1.1" 200 4031 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+172.29.58.212 - - [May 09 2026, 13:25:31] "POST /blog HTTP/1.1" 400 4606 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+181.178.205.38 - - [May 09 2026, 14:36:53] "GET /search?limit=20&sort=price_desc HTTP/1.1" 400 9670 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+5.99.154.176 - - [May 11 2026, 22:40:52] "PUT / HTTP/1.1" 403 7329 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+205.202.123.4 - - [May 12 2026, 09:53:28] "GET /products/category/clothing HTTP/1.1" 404 9585 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+7.249.86.114 - - [May 07 2026, 19:56:48] "PUT /services?sort=price_desc HTTP/1.1" 500 10660 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+146.118.241.185 - - [May 09 2026, 03:00:01] "GET /home?page=2&sort=price_desc&category=electronics HTTP/1.1" 400 4871 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+3.133.91.220 - - [May 10 2026, 18:17:45] "GET /checkout HTTP/1.1" 404 8994 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+174.43.170.254 - - [May 10 2026, 00:40:56] "GET /blog HTTP/1.1" 500 4271 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+48.12.122.7 - - [May 10 2026, 14:24:09] "PUT / HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+187.235.9.142 - - [May 09 2026, 18:30:04] "GET /register HTTP/1.1" 400 3507 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+172.31.100.30 - - [May 11 2026, 08:49:18] "GET /contact?sort=price_desc HTTP/1.1" 400 9735 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+91.197.105.40 - - [May 10 2026, 00:19:45] "DELETE /blog?sort=price_desc&page=2 HTTP/1.1" 200 2736 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+194.170.227.7 - - [May 12 2026, 05:57:10] "DELETE /about HTTP/1.1" 400 3547 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+38.80.218.89 - - [May 11 2026, 12:52:05] "POST /home HTTP/1.1" 200 5426 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+47.131.250.101 - - [May 10 2026, 22:50:28] "GET /login HTTP/1.1" 200 4944 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+146.165.145.219 - - [May 07 2026, 04:08:21] "GET /products HTTP/1.1" 200 2588 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Mobile/15E148 Safari/604.1"
+192.168.230.98 - - [May 08 2026, 02:09:54] "DELETE /products/category/electronics HTTP/1.1" 301 8704 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+181.250.101.166 - - [May 09 2026, 22:56:03] "DELETE /checkout HTTP/1.1" 302 6840 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+6.147.92.225 - - [May 12 2026, 06:06:29] "PUT /search HTTP/1.1" 500 8626 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+211.58.93.24 - - [May 06 2026, 00:36:31] "PUT /products/category/electronics HTTP/1.1" 200 8859 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+201.145.248.233 - - [May 10 2026, 00:21:19] "GET /register?sort=price_desc&category=electronics HTTP/1.1" 404 8657 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+216.111.215.134 - - [May 10 2026, 23:56:10] "DELETE /login HTTP/1.1" 400 10879 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+4.147.231.107 - - [May 08 2026, 13:43:54] "GET /home?category=electronics&page=2&sort=price_desc HTTP/1.1" 200 2851 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) 
+Gecko/20100101 Firefox/90.0"
+195.108.255.47 - - [May 09 2026, 10:47:28] "DELETE /cart HTTP/1.1" 301 10047 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+192.168.17.115 - - [May 11 2026, 21:04:58] "GET /products HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+180.35.124.233 - - [May 11 2026, 04:26:03] "DELETE /services HTTP/1.1" 500 3607 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 
+Safari/537.36"
+172.23.129.71 - - [May 06 2026, 06:24:41] "DELETE /api/users HTTP/1.1" 500 6464 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+192.168.142.21 - - [May 06 2026, 17:05:21] "PUT /products/category/clothing HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+172.28.53.162 - - [May 10 2026, 11:44:17] "PUT /blog HTTP/1.1" 302 3937 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+87.110.96.184 - - [May 06 2026, 13:06:33] "GET /products/category/electronics?page=2&category=electronics&sort=price_desc HTTP/1.1" 403 10366 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; 
+Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+147.240.37.246 - - [May 11 2026, 11:10:49] "GET / HTTP/1.1" 200 6848 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+1.61.115.244 - - [May 09 2026, 15:08:21] "PUT /services HTTP/1.1" 404 2838 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+204.131.109.54 - - [May 08 2026, 09:43:40] "GET /products HTTP/1.1" 403 6265 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+172.19.112.41 - - [May 05 2026, 12:46:38] "POST /cart HTTP/1.1" 304 0 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+172.16.121.77 - - [May 10 2026, 12:29:23] "GET /checkout?q=search+term&sort=price_desc&category=electronics HTTP/1.1" 301 5046 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 
+10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+10.22.41.87 - - [May 06 2026, 03:40:44] "GET /cart HTTP/1.1" 304 0 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+205.245.170.237 - - [May 07 2026, 01:48:13] "PUT /services?limit=20&q=search+term HTTP/1.1" 200 1650 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+192.168.137.72 - - [May 06 2026, 23:03:07] "DELETE / HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+9.125.241.205 - - [May 11 2026, 05:22:50] "GET /services?category=electronics HTTP/1.1" 400 10309 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/91.0.4472.124 Safari/537.36"
+216.251.243.229 - - [May 08 2026, 23:41:50] "POST /search HTTP/1.1" 200 10544 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+10.242.200.132 - - [May 09 2026, 02:20:37] "GET /contact HTTP/1.1" 304 0 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+140.239.126.231 - - [May 07 2026, 15:41:22] "GET /search HTTP/1.1" 301 8356 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+102.244.196.129 - - [May 08 2026, 06:57:59] "GET /checkout?sort=price_desc&page=2 HTTP/1.1" 301 3546 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+132.108.151.194 - - [May 08 2026, 20:35:03] "GET /checkout?q=search+term HTTP/1.1" 200 6861 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, 
+like Gecko) Version/14.1.1 Safari/605.1.15"
+192.168.213.218 - - [May 09 2026, 23:01:01] "GET /contact?category=electronics&sort=price_desc&limit=20 HTTP/1.1" 301 3939 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+192.168.99.13 - - [May 12 2026, 07:24:31] "GET /products/category/clothing?q=search+term HTTP/1.1" 403 10674 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+10.183.26.212 - - [May 10 2026, 05:54:52] "GET /blog HTTP/1.1" 302 6975 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+76.116.29.113 - - [May 09 2026, 13:35:24] "DELETE /search HTTP/1.1" 304 0 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.106.186.94 - - [May 07 2026, 05:06:44] "PUT /contact HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+181.44.70.151 - - [May 09 2026, 00:37:35] "GET /blog HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+189.122.28.214 - - [May 09 2026, 16:19:02] "DELETE / HTTP/1.1" 302 6390 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+2.69.187.133 - - [May 06 2026, 07:46:10] "DELETE /products/category/electronics HTTP/1.1" 302 2455 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+172.29.206.129 - - [May 08 2026, 15:30:45] "POST /api/users HTTP/1.1" 403 4598 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Mobile/15E148 Safari/604.1"
+222.105.83.221 - - [May 11 2026, 05:07:54] "DELETE /contact?category=electronics&page=2 HTTP/1.1" 400 5233 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+192.168.155.172 - - [May 07 2026, 01:15:30] "GET /about HTTP/1.1" 302 2513 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+63.214.56.181 - - [May 09 2026, 16:49:11] "GET /products/category/clothing?page=2&category=electronics HTTP/1.1" 404 3575 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac 
+OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+172.19.24.30 - - [May 10 2026, 09:38:21] "POST /about HTTP/1.1" 302 10802 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+6.115.165.41 - - [May 07 2026, 23:01:45] "POST /api/users HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+186.231.116.191 - - [May 08 2026, 04:33:46] "GET /products HTTP/1.1" 403 6126 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+4.218.71.162 - - [May 09 2026, 22:09:23] "DELETE /login?page=2 HTTP/1.1" 200 2758 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+192.168.232.68 - - [May 05 2026, 23:04:00] "POST /search?category=electronics HTTP/1.1" 400 7661 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.20.97.194 - - [May 08 2026, 06:15:34] "GET /?category=electronics HTTP/1.1" 200 5670 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Safari/605.1.15"
+192.168.111.73 - - [May 05 2026, 15:32:17] "GET /cart HTTP/1.1" 500 6974 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+218.47.234.73 - - [May 05 2026, 23:19:30] "GET /products/category/electronics HTTP/1.1" 200 10804 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+175.249.247.249 - - [May 07 2026, 10:41:06] "POST /login?page=2&sort=price_desc&category=electronics HTTP/1.1" 304 0 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) 
+Gecko/20100101 Firefox/90.0"
+8.222.182.222 - - [May 10 2026, 15:57:58] "POST /login HTTP/1.1" 403 2027 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+172.18.38.81 - - [May 05 2026, 22:19:28] "POST /products/category/clothing HTTP/1.1" 304 0 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+9.105.13.147 - - [May 09 2026, 11:17:39] "PUT /contact HTTP/1.1" 500 5650 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+15.1.34.140 - - [May 08 2026, 21:11:11] "GET /home HTTP/1.1" 200 5367 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+128.154.5.46 - - [May 11 2026, 23:47:17] "PUT /api/users HTTP/1.1" 200 9027 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+190.240.68.184 - - [May 11 2026, 15:26:35] "PUT / HTTP/1.1" 403 1228 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+16.16.164.115 - - [May 06 2026, 19:33:43] "DELETE /products/category/clothing HTTP/1.1" 403 1938 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.52.127.62 - - [May 11 2026, 02:54:05] "DELETE /login HTTP/1.1" 403 1560 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+143.85.121.112 - - [May 09 2026, 17:13:50] "GET /about HTTP/1.1" 403 2878 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+10.178.40.132 - - [May 06 2026, 03:46:44] "PUT /checkout HTTP/1.1" 200 7316 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+193.36.120.132 - - [May 07 2026, 08:55:37] "POST /blog HTTP/1.1" 200 9124 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+215.63.156.252 - - [May 10 2026, 03:17:53] "POST /services HTTP/1.1" 302 3240 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+172.19.82.39 - - [May 07 2026, 19:29:53] "GET / HTTP/1.1" 200 4998 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+192.168.235.84 - - [May 05 2026, 19:24:44] "GET /products/category/clothing?q=search+term&page=2&category=electronics HTTP/1.1" 200 10472 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+10.203.106.67 - - [May 06 2026, 13:29:29] "DELETE /about?page=2 HTTP/1.1" 403 2204 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+192.168.111.225 - - [May 11 2026, 06:25:42] "GET /search HTTP/1.1" 400 5929 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+202.191.220.34 - - [May 08 2026, 14:47:26] "GET /home HTTP/1.1" 404 6386 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+1.74.55.55 - - [May 10 2026, 08:05:54] "POST /blog?sort=price_desc&page=2 HTTP/1.1" 400 8203 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, 
+like Gecko) Version/14.1.1 Safari/605.1.15"
+172.19.66.34 - - [May 05 2026, 12:02:37] "PUT /register?sort=price_desc HTTP/1.1" 200 8519 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+206.133.250.212 - - [May 07 2026, 23:56:39] "DELETE /search?category=electronics&limit=20&page=2 HTTP/1.1" 200 5385 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+172.25.189.14 - - [May 11 2026, 21:15:05] "PUT /login HTTP/1.1" 200 7934 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+188.142.160.67 - - [May 08 2026, 16:15:35] "GET /register HTTP/1.1" 404 7506 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+132.39.29.96 - - [May 07 2026, 11:42:35] "GET /api/users?sort=price_desc&category=electronics HTTP/1.1" 200 8023 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+190.137.187.241 - - [May 11 2026, 02:41:37] "GET /?category=electronics&q=search+term HTTP/1.1" 200 9505 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+192.168.20.220 - - [May 08 2026, 20:33:01] "GET /products/category/electronics?page=2&limit=20&sort=price_desc HTTP/1.1" 200 1353 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; 
+rv:90.0) Gecko/20100101 Firefox/90.0"
+192.168.102.48 - - [May 08 2026, 00:04:18] "GET /register HTTP/1.1" 200 6876 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"10.32.30.111 - - [May 11 2026, 10:52:57] "GET /products/category/electronics HTTP/1.1" 302 8370 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) 
+Gecko/20100101 Firefox/90.0"
+5.223.143.112 - - [May 07 2026, 12:51:18] "GET /services HTTP/1.1" 304 0 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+8.77.62.198 - - [May 10 2026, 10:03:40] "PUT /blog HTTP/1.1" 200 7493 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+194.145.215.184 - - [May 09 2026, 22:42:34] "GET /search HTTP/1.1" 200 8142 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+161.190.79.5 - - [May 10 2026, 15:32:38] "POST /products/category/clothing HTTP/1.1" 302 8811 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+43.239.231.129 - - [May 06 2026, 18:28:47] "PUT /login?category=electronics&q=search+term&sort=price_desc HTTP/1.1" 400 4384 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+2.199.38.167 - - [May 10 2026, 02:23:29] "DELETE /products HTTP/1.1" 302 7070 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+172.23.248.69 - - [May 06 2026, 22:37:19] "POST /home HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 
+Safari/537.36"
+161.241.74.129 - - [May 11 2026, 00:24:04] "PUT /cart?page=2&category=electronics HTTP/1.1" 301 3159 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+194.158.233.196 - - [May 07 2026, 05:03:20] "GET /cart HTTP/1.1" 400 4864 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+98.213.233.126 - - [May 12 2026, 07:52:07] "POST /search HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+172.19.69.214 - - [May 09 2026, 11:47:37] "DELETE /login?limit=20&q=search+term&category=electronics HTTP/1.1" 400 5256 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+218.129.11.52 - - [May 08 2026, 18:46:37] "GET /services?category=electronics&sort=price_desc&page=2 HTTP/1.1" 404 4439 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+172.30.75.174 - - [May 06 2026, 15:32:25] "GET /login?category=electronics HTTP/1.1" 304 0 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+192.168.123.192 - - [May 12 2026, 06:37:24] "DELETE /login HTTP/1.1" 200 7276 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+172.16.9.182 - - [May 09 2026, 07:50:30] "PUT /products/category/electronics HTTP/1.1" 200 6132 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+188.198.81.216 - - [May 05 2026, 11:02:10] "GET /checkout HTTP/1.1" 302 3576 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+173.112.136.251 - - [May 08 2026, 16:25:54] "GET ../../../TEtTe2xvZy1sb2dsb2dsb2dsb2dsZ29sZ29nbGdvbGdvbGdvbGdvZ30= HTTP/1.1" 200 1929 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64)
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107
+192.168.118.248 - - [May 07 2026, 02:40:14] "GET /products HTTP/1.1" 304 0 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+10.24.81.180 - - [May 08 2026, 07:58:06] "GET /products/category/electronics HTTP/1.1" 301 7891 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+8.145.127.71 - - [May 11 2026, 11:18:00] "GET /login?page=2&sort=price_desc HTTP/1.1" 302 7291 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+205.251.14.171 - - [May 11 2026, 23:55:54] "GET /home HTTP/1.1" 400 8439 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 
+Safari/537.36"
+197.211.183.103 - - [May 06 2026, 03:30:35] "DELETE /products?category=electronics HTTP/1.1" 404 4841 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+177.108.215.192 - - [May 07 2026, 15:07:39] "POST /about HTTP/1.1" 400 4026 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+38.232.52.201 - - [May 12 2026, 06:43:37] "GET / HTTP/1.1" 200 8317 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+187.83.210.37 - - [May 12 2026, 05:24:03] "POST /search?sort=price_desc&limit=20&page=2 HTTP/1.1" 500 6067 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+172.20.110.80 - - [May 07 2026, 23:42:13] "DELETE /products HTTP/1.1" 304 0 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+154.48.174.227 - - [May 06 2026, 04:17:04] "DELETE /products/category/clothing HTTP/1.1" 500 6305 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+10.59.156.194 - - [May 08 2026, 19:41:23] "GET /cart HTTP/1.1" 403 1552 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+74.140.153.171 - - [May 05 2026, 17:38:26] "PUT /products/category/electronics HTTP/1.1" 302 8247 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+202.53.24.204 - - [May 09 2026, 02:07:44] "GET /services?sort=price_desc HTTP/1.1" 302 6750 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Safari/605.1.15"
+128.39.38.214 - - [May 06 2026, 00:04:48] "GET /products/category/clothing HTTP/1.1" 200 4615 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+153.205.156.164 - - [May 09 2026, 01:54:46] "GET /register HTTP/1.1" 403 4511 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+159.236.32.3 - - [May 08 2026, 04:23:15] "GET /login?limit=20&sort=price_desc&page=2 HTTP/1.1" 200 8843 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.48.53.15 - - [May 08 2026, 22:43:20] "PUT /register HTTP/1.1" 404 7646 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+4.115.182.124 - - [May 11 2026, 00:31:57] "GET /products/category/clothing HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, 
+like Gecko) Version/14.1.1 Safari/605.1.15"
+86.20.240.202 - - [May 07 2026, 19:07:29] "GET /search HTTP/1.1" 302 7659 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+207.254.42.13 - - [May 09 2026, 04:45:12] "GET /products/category/clothing?q=search+term HTTP/1.1" 404 2420 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+172.31.188.123 - - [May 07 2026, 04:58:14] "DELETE /search HTTP/1.1" 200 9803 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+186.120.4.42 - - [May 08 2026, 20:46:03] "DELETE /products/category/clothing?sort=price_desc&q=search+term HTTP/1.1" 200 4427 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/92.0.4515.107 Safari/537.36"
+111.34.82.249 - - [May 08 2026, 10:48:25] "POST /products/category/electronics HTTP/1.1" 301 9538 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+3.4.21.159 - - [May 07 2026, 13:21:31] "GET /register HTTP/1.1" 404 4020 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+10.62.83.252 - - [May 05 2026, 12:22:24] "GET /products?category=electronics HTTP/1.1" 200 3696 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/92.0.4515.107 Safari/537.36"
+5.66.132.79 - - [May 09 2026, 20:56:18] "POST /about HTTP/1.1" 400 6576 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+192.168.238.37 - - [May 06 2026, 19:15:06] "POST /home HTTP/1.1" 400 3461 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+15.84.22.60 - - [May 10 2026, 23:20:19] "GET /cart HTTP/1.1" 200 1009 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+183.5.33.82 - - [May 09 2026, 06:50:32] "POST /products/category/electronics?category=electronics HTTP/1.1" 200 4673 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+33.234.199.140 - - [May 06 2026, 22:59:21] "GET /products/category/electronics HTTP/1.1" 500 4585 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+10.201.62.255 - - [May 08 2026, 12:55:28] "PUT /about HTTP/1.1" 200 4501 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+213.0.252.239 - - [May 07 2026, 18:34:15] "GET /products HTTP/1.1" 200 4181 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+13.230.78.88 - - [May 06 2026, 18:55:35] "PUT /register HTTP/1.1" 200 2605 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+142.175.42.37 - - [May 10 2026, 10:44:11] "POST /services HTTP/1.1" 403 7490 "https://www.bing.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Mobile/15E148 Safari/604.1"
+60.117.1.156 - - [May 07 2026, 06:29:59] "GET /services HTTP/1.1" 200 1784 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Mobile/15E148 Safari/604.1"
+74.46.215.249 - - [May 09 2026, 15:41:10] "GET /checkout?sort=price_desc&page=2&q=search+term HTTP/1.1" 200 8481 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) 
+Gecko/20100101 Firefox/90.0"
+157.102.222.231 - - [May 12 2026, 05:26:56] "GET /api/users?page=2 HTTP/1.1" 301 6124 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, 
+like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+172.20.11.33 - - [May 06 2026, 18:50:39] "PUT /checkout HTTP/1.1" 301 4858 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+192.168.158.18 - - [May 07 2026, 17:51:54] "GET /api/users?page=2 HTTP/1.1" 200 4034 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+172.27.137.199 - - [May 06 2026, 06:27:33] "POST /api/users HTTP/1.1" 400 4165 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+192.168.221.130 - - [May 08 2026, 03:13:50] "DELETE /about HTTP/1.1" 400 1780 "https://www.twitter.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.178.145.131 - - [May 06 2026, 22:35:55] "GET /products/category/electronics HTTP/1.1" 404 8682 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+192.168.84.150 - - [May 06 2026, 19:13:43] "GET /services?q=search+term&page=2 HTTP/1.1" 500 2592 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 
+(KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+178.225.207.132 - - [May 07 2026, 13:17:44] "GET /checkout HTTP/1.1" 301 7140 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.121.81.85 - - [May 10 2026, 07:02:23] "POST /products/category/clothing?category=electronics&page=2 HTTP/1.1" 403 1772 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; 
+rv:90.0) Gecko/20100101 Firefox/90.0"
+5.70.199.43 - - [May 11 2026, 15:10:54] "GET /products HTTP/1.1" 200 1456 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+10.137.238.174 - - [May 06 2026, 15:00:29] "GET /contact HTTP/1.1" 404 8254 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+180.61.200.74 - - [May 10 2026, 17:56:10] "DELETE /products HTTP/1.1" 400 7932 "https://www.facebook.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+10.222.212.180 - - [May 10 2026, 22:04:40] "PUT /checkout HTTP/1.1" 404 10620 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+113.77.47.219 - - [May 12 2026, 04:46:30] "DELETE /about HTTP/1.1" 200 6926 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+152.173.6.120 - - [May 10 2026, 11:21:25] "GET /products/category/clothing HTTP/1.1" 304 0 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+5.222.49.237 - - [May 07 2026, 11:20:53] "POST /products/category/electronics?page=2&sort=price_desc&category=electronics HTTP/1.1" 500 10603 "https://www.facebook.com" "Mozilla/5.0 (X11; Linux 
+x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+114.0.173.5 - - [May 05 2026, 11:59:54] "PUT /about?limit=20 HTTP/1.1" 200 3378 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+172.18.81.13 - - [May 06 2026, 13:11:07] "GET /home HTTP/1.1" 403 6373 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+132.60.165.156 - - [May 05 2026, 10:57:21] "GET /products?category=electronics&sort=price_desc HTTP/1.1" 301 9358 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+192.168.123.2 - - [May 11 2026, 20:07:43] "GET /services HTTP/1.1" 304 0 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+177.242.151.169 - - [May 09 2026, 13:57:05] "GET /cart HTTP/1.1" 500 2883 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+51.159.32.234 - - [May 10 2026, 03:10:50] "GET /api/users?sort=price_desc HTTP/1.1" 404 10957 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+172.22.214.202 - - [May 10 2026, 02:07:08] "PUT /products/category/clothing?category=electronics&limit=20&sort=price_desc HTTP/1.1" 404 7528 "https://www.example.com" "Mozilla/5.0 (Macintosh; Intel 
+Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+192.168.88.57 - - [May 06 2026, 02:02:08] "PUT /blog HTTP/1.1" 404 9356 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+209.110.206.180 - - [May 08 2026, 20:17:28] "POST /contact HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+217.243.110.181 - - [May 07 2026, 00:57:45] "DELETE /products/category/electronics HTTP/1.1" 200 2117 "https://www.bing.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+192.168.88.158 - - [May 05 2026, 17:19:10] "GET /products?sort=price_desc&page=2&q=search+term HTTP/1.1" 404 2586 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+172.20.123.244 - - [May 11 2026, 04:10:21] "DELETE /api/users HTTP/1.1" 304 0 "https://www.google.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like 
+Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+203.149.209.37 - - [May 10 2026, 00:01:39] "POST /blog HTTP/1.1" 403 4105 "https://www.twitter.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+205.207.104.209 - - [May 11 2026, 01:32:58] "GET /login?limit=20&sort=price_desc HTTP/1.1" 304 0 "https://www.example.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) 
+AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
+184.253.250.123 - - [May 10 2026, 02:17:24] "GET /blog HTTP/1.1" 200 3172 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+172.30.240.9 - - [May 11 2026, 15:07:45] "DELETE /checkout?category=electronics HTTP/1.1" 200 7358 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+136.234.12.225 - - [May 08 2026, 18:14:26] "GET /products/category/electronics HTTP/1.1" 200 10674 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+205.67.47.249 - - [May 08 2026, 03:24:26] "GET /api/users HTTP/1.1" 200 1872 "https://www.example.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+131.206.73.246 - - [May 07 2026, 13:24:27] "GET /search HTTP/1.1" 200 4561 "https://www.twitter.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+172.19.152.109 - - [May 08 2026, 11:19:05] "GET /products/category/electronics HTTP/1.1" 200 5849 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+192.168.83.166 - - [May 11 2026, 17:29:06] "GET /products HTTP/1.1" 400 5763 "https://www.google.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+192.168.106.224 - - [May 09 2026, 03:16:29] "POST /cart HTTP/1.1" 200 2117 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+10.37.199.254 - - [May 08 2026, 17:59:01] "GET /api/users HTTP/1.1" 304 0 "https://www.twitter.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+4.87.228.209 - - [May 05 2026, 19:16:47] "PUT /contact HTTP/1.1" 301 5107 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/91.0.4472.124 Safari/537.36"
+137.107.108.91 - - [May 05 2026, 10:16:30] "GET /search HTTP/1.1" 200 6420 "https://www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+10.159.91.30 - - [May 06 2026, 23:30:37] "DELETE /register HTTP/1.1" 500 9261 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+185.15.27.53 - - [May 11 2026, 19:35:28] "POST /products/category/clothing HTTP/1.1" 500 1121 "https://www.facebook.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 
+Firefox/90.0"
+Safari/605.1.15"
+Safari/537.36"
+173.23.115.65 - - [May 05 2026, 22:46:15] "PUT / HTTP/1.1" 302 10355 "https://www.bing.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 
+Safari/605.1.15"
+173.112.136.251 - - [May 08 2026, 16:25:54] "GET /products HTTP/1.1" 301 1929 "https://www.bing.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
+10.233.68.230 - - [May 08 2026, 05:51:08] "GET /contact HTTP/1.1" 304 0 "https://www.facebook.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 
+Version/14.1.1 Safari/605.1.15"
+183.82.186.209 - - [May 12 2026, 05:17:15] "PUT /contact HTTP/1.1" 302 6584 "https://www.example.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 
+Safari/537.36"
